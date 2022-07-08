@@ -3,7 +3,7 @@
 // Styles for managing the structural hierarchy of the site.
 
 .container {
-  max-width: 45rem;
+  max-width: 24rem;
   padding-left: var(--spacer-2);
   padding-right: var(--spacer-2);
   margin-left:  auto;
@@ -13,4 +13,20 @@
 footer {
   margin-top: var(--spacer-3);
   margin-bottom: var(--spacer-3);
+}
+
+.profile-image {
+  max-width: 50%;
+}
+
+.social-container {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+}
+
+.social-link {
+  min-width: 32px;
+  max-width: 40px;
 }

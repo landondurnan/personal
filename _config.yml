@@ -1,6 +1,6 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
+title: Landon Durnan
+tagline: &nbsp;
 url: https://getpoole.com
 paginate: 1
 baseurl: ""
@@ -33,9 +33,8 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Mark Otto
-  url: https://twitter.com/mdo
-  email: markdotto@gmail.com
+  name: Landon Durnan
+  email: landondurnan@gmail.com
 
 # Custom vars
 version: 3.0.0
