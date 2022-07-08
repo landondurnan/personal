@@ -3,7 +3,7 @@ title: Landon Durnan
 tagline: Personal Site
 url: https://landondurnan.github.io/personal
 paginate: 1
-baseurl: ""
+baseurl: "/personal"
 permalink: pretty
 
 # Gems
